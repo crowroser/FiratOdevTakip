@@ -2,14 +2,14 @@
     {
         "baslik": "Yakında Eklenecek Güncellemeler",
         "icerik": "Ödev Bildirim Sistemi"
-		"icerik": "Ödev Bildirim Sistemi"
+		
     },
     {
-        "baslik": "Örnek Duyuru 2",
-        "icerik": "İkinci örnek duyuru içeriği burada yer alır."
+        "baslik": "",
+        "icerik": "Yemek Vakti Bildirim Sistemi"
     },
     {
-        "baslik": "Örnek Duyuru 3",
-        "icerik": "Üçüncü örnek duyuru açıklaması."
+        "baslik": "",
+        "icerik": "Ders Programı"
     }
 ]
