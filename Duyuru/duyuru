@@ -1,0 +1,14 @@
+[
+    {
+        "baslik": "Örnek Duyuru 1",
+        "icerik": "Bu, ilk örnek duyuru içeriğidir."
+    },
+    {
+        "baslik": "Örnek Duyuru 2",
+        "icerik": "İkinci örnek duyuru içeriği burada yer alır."
+    },
+    {
+        "baslik": "Örnek Duyuru 3",
+        "icerik": "Üçüncü örnek duyuru açıklaması."
+    }
+]
