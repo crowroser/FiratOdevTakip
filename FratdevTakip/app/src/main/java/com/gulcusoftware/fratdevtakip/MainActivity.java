@@ -13,6 +13,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 
 import java.io.IOException;
@@ -20,6 +21,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    Button button1;
+    Button button3;
     ListView odevliste;
     ArrayAdapter<OdevItem> adapter;
     List<OdevItem> odevler;
@@ -28,7 +31,24 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        button1 = findViewById(R.id.button1);
+        button3 = findViewById(R.id.button3);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // MainActivity'yi başlatan bir Intent oluşturun
+                Intent intent = new Intent(v.getContext(), YemekTakip.class);
+                startActivity(intent);
+            }
+        });
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // MainActivity'yi başlatan bir Intent oluşturun
+                Intent intent = new Intent(v.getContext(), DuyuruMainActivity.class);
+                startActivity(intent);
+            }
+        });
         odevliste = findViewById(R.id.odevliste);
 
         odevler = new ArrayList<>();
