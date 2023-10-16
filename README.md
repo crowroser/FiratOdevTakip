@@ -5,4 +5,7 @@ Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendisliği Gündüz 1A �
 
 [Yüklemek için tıklayınız.](https://github.com/crowroser/FiratOdevTakip/releases/download/Android/Firat.Odev.Takip.apk)
 
-üzerinden Android cihazınıza indirebilirsiniz.
+
+[LinkedIn](https://www.linkedin.com/in/fatih-g%C3%BClc%C3%BC-125b52182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[Instagram](https://instagram.com/fatihgulcu.0?igshid=OGQ5ZDc2ODk2ZA==)
