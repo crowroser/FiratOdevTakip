@@ -1,84 +1,84 @@
 [
     {
-        "gun": "1",
+        "gun": "2",
         "saat": "09.15",
         "isim": "Algoritma ve Programlama I",
         "sube": "0"
     },
     {
-        "gun": "1",
+        "gun": "2",
         "saat": "13.15",
         "isim": "Fizik Laboratuarı I",
         "sube": "1"
     },
     {
-        "gun": "1",
+        "gun": "2",
         "saat": "15.15",
         "isim": "Matematik I",
         "sube": "0"
     },
     {
-        "gun": "2",
+        "gun": "3",
         "saat": "10.15",
         "isim": "Fizik Laboratuarı I",
         "sube": "2"
     },
     {
-        "gun": "2",
+        "gun": "3",
         "saat": "13.15",
         "isim": "Bilgisayar Bilimlerine Giriş",
         "sube": "0"
     },
     {
-        "gun":"3",
+        "gun":"4",
         "saat":"08.15",
         "isim":"Fizik Laboratuarı I",
         "sube":"3"
     },
     {
-        "gun": "3",
+        "gun": "4",
         "saat":"10.15",
         "isim":"Fizik Laboratuarı I",
         "sube":"6"
     },
     {
-        "gun":"3",
+        "gun":"4",
         "saat":"13.15",
         "isim":"Fizik I",
         "sube":"0"
     },
     {
-        "gun":"4",
+        "gun":"5",
         "saat":"10.15",
         "isim":"Fizik Laboratuarı I",
         "sube":"5"
     },
     {
-        "gun": "4",
+        "gun": "5",
         "saat":"13.15",
         "isim":"Fizik Laboratuarı I",
         "sube":"4"
     },
     { 
-        "gun":"4",
+        "gun":"5",
         "saat":"15.15",
         "isim":"Fizik I",
         "sube":"0"
     },
     {
-        "gun":"5",
+        "gun":"6",
         "saat":"08.15",
         "isim":"Matematik I",
         "sube":"0"
     },
     {
-        "gun":"5",
+        "gun":"6",
         "saat":"10.15",
         "isim":"Algoritma ve Programlama I(LAB)",
         "sube":"0"
     },
     {
-        "gun":"5",
+        "gun":"6",
         "saat":"13.15",
         "isim":"Yazılım Müh. Oryant.",
         "sube":"0"
